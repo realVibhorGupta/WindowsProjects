@@ -1,0 +1,6 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\AbstractClassInCsharpDemo\AbstractClassInCsharpDemo\bin\Debug\AbstractClassInCsharpDemo.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\AbstractClassInCsharpDemo\AbstractClassInCsharpDemo\bin\Debug\AbstractClassInCsharpDemo.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\AbstractClassInCsharpDemo\AbstractClassInCsharpDemo\bin\Debug\AbstractClassInCsharpDemo.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\AbstractClassInCsharpDemo\AbstractClassInCsharpDemo\obj\Debug\AbstractClassInCsharpDemo.csprojResolveAssemblyReference.cache
+c:\users\vibhor\documents\visual studio 2015\Projects\AbstractClassInCsharpDemo\AbstractClassInCsharpDemo\obj\Debug\AbstractClassInCsharpDemo.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\AbstractClassInCsharpDemo\AbstractClassInCsharpDemo\obj\Debug\AbstractClassInCsharpDemo.pdb
