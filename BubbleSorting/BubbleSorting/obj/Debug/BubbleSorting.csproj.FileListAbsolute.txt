@@ -1,0 +1,1 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\BubbleSorting\BubbleSorting\bin\Debug\BubbleSorting.exe.config
