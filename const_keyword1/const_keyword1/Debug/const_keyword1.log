@@ -1,0 +1,16 @@
+﻿Build started 25-Feb-16 4:46:55 PM.
+     1>Project "c:\Users\vibhor\documents\visual studio 2015\Projects\const_keyword1\const_keyword1\const_keyword1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\vibhor\documents\visual studio 2015\projects\const_keyword1\const_keyword1\main.cpp(17): error C3490: 'i' cannot be modified because it is being accessed through a const object
+     1>c:\users\vibhor\documents\visual studio 2015\projects\const_keyword1\const_keyword1\main.cpp(34): error C2248: 'X::i': cannot access private member declared in class 'X'
+         c:\users\vibhor\documents\visual studio 2015\projects\const_keyword1\const_keyword1\main.cpp(8): note: see declaration of 'X::i'
+         c:\users\vibhor\documents\visual studio 2015\projects\const_keyword1\const_keyword1\main.cpp(7): note: see declaration of 'X'
+         c:\users\vibhor\documents\visual studio 2015\projects\const_keyword1\const_keyword1\main.cpp(8): note: see declaration of 'X::i'
+         c:\users\vibhor\documents\visual studio 2015\projects\const_keyword1\const_keyword1\main.cpp(7): note: see declaration of 'X'
+     1>Done Building Project "c:\Users\vibhor\documents\visual studio 2015\Projects\const_keyword1\const_keyword1\const_keyword1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.39
