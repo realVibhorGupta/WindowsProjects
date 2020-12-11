@@ -1,0 +1,6 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpInheritence\CSharpInheritence\bin\Debug\CSharpInheritence.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpInheritence\CSharpInheritence\bin\Debug\CSharpInheritence.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpInheritence\CSharpInheritence\bin\Debug\CSharpInheritence.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpInheritence\CSharpInheritence\obj\Debug\CSharpInheritence.csprojResolveAssemblyReference.cache
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpInheritence\CSharpInheritence\obj\Debug\CSharpInheritence.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpInheritence\CSharpInheritence\obj\Debug\CSharpInheritence.pdb
