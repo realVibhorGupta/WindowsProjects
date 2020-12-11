@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\vibhor\documents\visual studio 2015\projects\statickeyword\statickeyword\source.cpp(45): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\vibhor\documents\visual studio 2015\projects\statickeyword\statickeyword\source.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\vibhor\documents\visual studio 2015\projects\statickeyword\statickeyword\source.cpp(48): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+c:\users\vibhor\documents\visual studio 2015\projects\statickeyword\statickeyword\source.cpp(41): warning C4101: 'a2': unreferenced local variable
+c:\users\vibhor\documents\visual studio 2015\projects\statickeyword\statickeyword\source.cpp(41): warning C4101: 'a1': unreferenced local variable
+  StaticKeyWord.vcxproj -> C:\Users\vibhor\Documents\Visual Studio 2015\Projects\StaticKeyWord\Debug\StaticKeyWord.exe
