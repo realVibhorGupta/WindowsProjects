@@ -1,0 +1,6 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\PropertiesInCSharp\PropertiesInCSharp\bin\Debug\PropertiesInCSharp.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.csprojResolveAssemblyReference.cache
+c:\users\vibhor\documents\visual studio 2015\Projects\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\PropertiesInCSharp\PropertiesInCSharp\obj\Debug\PropertiesInCSharp.pdb
