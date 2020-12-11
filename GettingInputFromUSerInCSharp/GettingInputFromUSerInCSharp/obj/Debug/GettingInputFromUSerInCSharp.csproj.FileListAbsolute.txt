@@ -1,0 +1,5 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\GettingInputFromUSerInCSharp\GettingInputFromUSerInCSharp\bin\Debug\GettingInputFromUSerInCSharp.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\GettingInputFromUSerInCSharp\GettingInputFromUSerInCSharp\bin\Debug\GettingInputFromUSerInCSharp.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\GettingInputFromUSerInCSharp\GettingInputFromUSerInCSharp\bin\Debug\GettingInputFromUSerInCSharp.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\GettingInputFromUSerInCSharp\GettingInputFromUSerInCSharp\obj\Debug\GettingInputFromUSerInCSharp.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\GettingInputFromUSerInCSharp\GettingInputFromUSerInCSharp\obj\Debug\GettingInputFromUSerInCSharp.pdb
