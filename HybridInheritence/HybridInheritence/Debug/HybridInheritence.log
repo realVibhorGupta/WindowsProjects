@@ -1,0 +1,21 @@
+﻿Build started 26-Feb-16 1:30:39 AM.
+     1>Project "c:\Users\vibhor\documents\visual studio 2015\Projects\HybridInheritence\HybridInheritence\HybridInheritence.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt hybridInheritence.cpp
+         hybridInheritence.cpp
+     1>c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(38): warning C4584: 'DerivedClass2': base-class 'BaseClass' is already a base-class of 'DerivedClass1'
+         c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(8): note: see declaration of 'BaseClass'
+         c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(23): note: see declaration of 'DerivedClass1'
+     1>c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(52): warning C4584: 'DerivedClass3': base-class 'DerivedClass1' is already a base-class of 'DerivedClass2'
+         c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(23): note: see declaration of 'DerivedClass1'
+         c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(37): note: see declaration of 'DerivedClass2'
+     1>c:\users\vibhor\documents\visual studio 2015\projects\hybridinheritence\hybridinheritence\hybridinheritence.cpp(82): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: see declaration of 'getch'
+       Link:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\vibhor\documents\visual studio 2015\Projects\HybridInheritence\Debug\HybridInheritence.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\vibhor\documents\visual studio 2015\Projects\HybridInheritence\Debug\HybridInheritence.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\vibhor\documents\visual studio 2015\Projects\HybridInheritence\Debug\HybridInheritence.lib" /MACHINE:X86 Debug\hybridInheritence.obj
+         HybridInheritence.vcxproj -> c:\users\vibhor\documents\visual studio 2015\Projects\HybridInheritence\Debug\HybridInheritence.exe
+     1>Done Building Project "c:\Users\vibhor\documents\visual studio 2015\Projects\HybridInheritence\HybridInheritence\HybridInheritence.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
