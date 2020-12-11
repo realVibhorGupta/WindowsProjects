@@ -1,0 +1,6 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\CustomExceptionDemo\CustomExceptionDemo\bin\Debug\CustomExceptionDemo.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\CustomExceptionDemo\CustomExceptionDemo\bin\Debug\CustomExceptionDemo.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\CustomExceptionDemo\CustomExceptionDemo\bin\Debug\CustomExceptionDemo.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\CustomExceptionDemo\CustomExceptionDemo\obj\Debug\CustomExceptionDemo.csprojResolveAssemblyReference.cache
+c:\users\vibhor\documents\visual studio 2015\Projects\CustomExceptionDemo\CustomExceptionDemo\obj\Debug\CustomExceptionDemo.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\CustomExceptionDemo\CustomExceptionDemo\obj\Debug\CustomExceptionDemo.pdb
