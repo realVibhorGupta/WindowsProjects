@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\vibhor\documents\visual studio 2015\projects\conversionofclassdatatype\conversionofclassdatatype\source.cpp(46): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  ConversionOfClassDataType.vcxproj -> c:\users\vibhor\documents\visual studio 2015\Projects\ConversionOfClassDataType\Debug\ConversionOfClassDataType.exe
