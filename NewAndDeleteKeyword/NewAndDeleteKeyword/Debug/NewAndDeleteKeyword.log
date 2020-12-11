@@ -1,0 +1,6 @@
+﻿  new_and_delete.cpp
+c:\users\vibhor\documents\visual studio 2015\projects\newanddeletekeyword\newanddeletekeyword\new_and_delete.cpp(64): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\vibhor\documents\visual studio 2015\projects\newanddeletekeyword\newanddeletekeyword\new_and_delete.cpp(73): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\vibhor\documents\visual studio 2015\projects\newanddeletekeyword\newanddeletekeyword\new_and_delete.cpp(93): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  NewAndDeleteKeyword.vcxproj -> C:\Users\vibhor\Documents\Visual Studio 2015\Projects\NewAndDeleteKeyword\Debug\NewAndDeleteKeyword.exe
