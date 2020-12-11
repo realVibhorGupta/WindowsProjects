@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{65E1A1CD-5A2B-498F-AF16-D191343C8219}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared1.Shared", "Shared1\Shared1.Shared\Shared1.Shared.vcxitems", "{14B2589C-1A98-4852-AB07-998217CDD79B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared1.Android.StaticLibrary", "Shared1\Shared1.Android.StaticLibrary\Shared1.Android.StaticLibrary.vcxproj", "{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared1.iOS.StaticLibrary", "Shared1\Shared1.iOS.StaticLibrary\Shared1.iOS.StaticLibrary.vcxproj", "{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared1.Android.Application", "Shared1.Android.Application", "{243832D6-6D8D-4BDB-A829-3F16F6756FBA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Shared1.Android.NativeActivity", "Shared1\Shared1.Android.NativeActivity\Shared1.Android.NativeActivity.vcxproj", "{D4823C4F-D807-42BA-8B51-FD6B135524F0}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared1\Shared1.Shared\Shared1.Shared.vcxitems*{14b2589c-1a98-4852-ab07-998217cdd79b}*SharedItemsImports = 9
+		Shared1\Shared1.Shared\Shared1.Shared.vcxitems*{c9d7addc-7f96-457d-bfd2-1f4bebd9297f}*SharedItemsImports = 4
+		Shared1\Shared1.Shared\Shared1.Shared.vcxitems*{c8c0a3e7-47bc-4dca-acff-975eb109db74}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Debug|ARM.Build.0 = Debug|ARM
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Debug|x86.ActiveCfg = Debug|x86
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Debug|x86.Build.0 = Debug|x86
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Release|ARM.ActiveCfg = Release|ARM
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Release|ARM.Build.0 = Release|ARM
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Release|x86.ActiveCfg = Release|x86
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74}.Release|x86.Build.0 = Release|x86
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Debug|ARM.Build.0 = Debug|ARM
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Debug|x86.ActiveCfg = Debug|x86
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Debug|x86.Build.0 = Debug|x86
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Release|ARM.ActiveCfg = Release|ARM
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Release|ARM.Build.0 = Release|ARM
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Release|x86.ActiveCfg = Release|x86
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F}.Release|x86.Build.0 = Release|x86
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Debug|ARM.Build.0 = Debug|ARM
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Debug|x86.ActiveCfg = Debug|x86
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Debug|x86.Build.0 = Debug|x86
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Release|ARM.ActiveCfg = Release|ARM
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Release|ARM.Build.0 = Release|ARM
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Release|x86.ActiveCfg = Release|x86
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14B2589C-1A98-4852-AB07-998217CDD79B} = {65E1A1CD-5A2B-498F-AF16-D191343C8219}
+		{C8C0A3E7-47BC-4DCA-ACFF-975EB109DB74} = {65E1A1CD-5A2B-498F-AF16-D191343C8219}
+		{C9D7ADDC-7F96-457D-BFD2-1F4BEBD9297F} = {65E1A1CD-5A2B-498F-AF16-D191343C8219}
+		{D4823C4F-D807-42BA-8B51-FD6B135524F0} = {243832D6-6D8D-4BDB-A829-3F16F6756FBA}
+	EndGlobalSection
+EndGlobal
