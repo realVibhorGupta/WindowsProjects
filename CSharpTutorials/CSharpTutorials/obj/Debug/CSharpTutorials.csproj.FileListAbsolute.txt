@@ -1,0 +1,6 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpTutorials\CSharpTutorials\bin\Debug\CSharpTutorials.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.csprojResolveAssemblyReference.cache
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\CSharpTutorials\CSharpTutorials\obj\Debug\CSharpTutorials.pdb
