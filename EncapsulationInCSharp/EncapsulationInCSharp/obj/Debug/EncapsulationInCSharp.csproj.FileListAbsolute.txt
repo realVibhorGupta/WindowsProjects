@@ -1,0 +1,6 @@
+c:\users\vibhor\documents\visual studio 2015\Projects\EncapsulationInCSharp\EncapsulationInCSharp\bin\Debug\EncapsulationInCSharp.exe.config
+c:\users\vibhor\documents\visual studio 2015\Projects\EncapsulationInCSharp\EncapsulationInCSharp\bin\Debug\EncapsulationInCSharp.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\EncapsulationInCSharp\EncapsulationInCSharp\bin\Debug\EncapsulationInCSharp.pdb
+c:\users\vibhor\documents\visual studio 2015\Projects\EncapsulationInCSharp\EncapsulationInCSharp\obj\Debug\EncapsulationInCSharp.csprojResolveAssemblyReference.cache
+c:\users\vibhor\documents\visual studio 2015\Projects\EncapsulationInCSharp\EncapsulationInCSharp\obj\Debug\EncapsulationInCSharp.exe
+c:\users\vibhor\documents\visual studio 2015\Projects\EncapsulationInCSharp\EncapsulationInCSharp\obj\Debug\EncapsulationInCSharp.pdb
